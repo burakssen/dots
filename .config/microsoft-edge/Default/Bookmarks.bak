@@ -1,0 +1,334 @@
+{
+   "checksum": "6826882364563cd809d337cff81745e4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13234622317823762",
+            "guid": "61a1fa5f-6d74-4a3a-8a18-683870e4b375",
+            "id": "5",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13237111157618967",
+            "guid": "3ae88f1b-1012-47dd-bded-6faa2ee0d6fc",
+            "id": "6",
+            "name": "Ders Notları | Not Kutusu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://notkutusu.com/"
+         }, {
+            "date_added": "13241130384588477",
+            "guid": "c0147a15-6532-46c5-8af2-099ede3313a6",
+            "id": "7",
+            "name": "Handling Keyboard and Mouse Events in SDL2 - Gigi Labs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gigi.nullneuron.net/gigilabs/handling-keyboard-and-mouse-events-in-sdl2/"
+         }, {
+            "date_added": "13242170429410542",
+            "guid": "2cf49bdf-2d41-487d-908e-bfc1c264b6e6",
+            "id": "8",
+            "name": "Unity and DLLs: C# (managed) and C++ (unmanaged) - Eric Eastwood",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ericeastwood.com/blog/17/unity-and-dlls-c-managed-and-c-unmanaged"
+         }, {
+            "date_added": "13242171644577255",
+            "guid": "de9080e1-605f-4ccc-9463-40416ce7a87f",
+            "id": "9",
+            "name": "Grid System in Unity (Heatmap, Pathfinding, Building Area) - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=waEsGu--9P8"
+         }, {
+            "date_added": "13242207066623036",
+            "guid": "6812cde6-d6cd-434b-b5bc-48609bad99f3",
+            "id": "10",
+            "name": "Unity Optimizasyon Önerileri | Oyun Tasarımı Destek Sitesi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://yasirkula.com/2016/06/19/unity-optimizasyon-onerileri/"
+         }, {
+            "date_added": "13243417852884795",
+            "guid": "86214d26-2151-4b9b-988d-32bafb1c0810",
+            "id": "11",
+            "name": "OSDev Wiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wiki.osdev.org/Main_Page"
+         }, {
+            "date_added": "13246016024116662",
+            "guid": "e422a877-121a-4d51-8af2-a9438c24f0ad",
+            "id": "12",
+            "name": "Image Model - Teachable Machines",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://teachablemachine.withgoogle.com/train/image"
+         }, {
+            "date_added": "13248734222002491",
+            "guid": "23bf29cf-809c-4f43-96c0-b18d5b587192",
+            "id": "13",
+            "name": "python - Increment counter for every access to a Flask view - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/42680357/increment-counter-for-every-access-to-a-flask-view"
+         }, {
+            "date_added": "13250354845473883",
+            "guid": "2d79ce94-aa0f-4fbb-91ef-471530f22264",
+            "id": "14",
+            "name": "5. Logins — Flask Tutorial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.itu.edu.tr/uyar/fad/logins.html"
+         }, {
+            "date_added": "13250793522664773",
+            "guid": "a1538c63-14ba-4521-be7b-a1ab367c88c2",
+            "id": "15",
+            "name": "Google Çeviri",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13253830173734509",
+            "guid": "3bea679c-78a8-4248-be66-e336967aecc5",
+            "id": "16",
+            "name": "02.relational-model.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/burak/Downloads/Documents/02.relational-model.pdf"
+         }, {
+            "date_added": "13254436464892551",
+            "guid": "91925819-c32c-466c-9837-5c35ffe80504",
+            "id": "17",
+            "name": "Red–black tree - Wikipedia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Red%E2%80%93black_tree#:~:text=Red%E2%80%93black%20trees%2C%20like%20all,(log%20n)%20search%20time."
+         }, {
+            "date_added": "13262523848262876",
+            "guid": "50a492e3-4c7c-4bb0-bed6-41d184d8d5ca",
+            "id": "18",
+            "name": "Linear Optimization",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://online-optimizer.appspot.com/?model=builtin:default.mod"
+         }, {
+            "date_added": "13284086611780656",
+            "guid": "24a0635d-2270-4dea-a1bb-3425f82750d4",
+            "id": "19",
+            "name": "luispabon/sway-ubuntu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/luispabon/sway-ubuntu"
+         }, {
+            "date_added": "13284478957006306",
+            "guid": "320f07fc-c740-4dc9-8820-1840e5b29964",
+            "id": "20",
+            "name": "[i3-gaps] [Polybar] My First Window manager Setup. Took me 3 DAYS!!! : unixporn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/puplj7/i3gaps_polybar_my_first_window_manager_setup_took/"
+         }, {
+            "date_added": "13284508858189626",
+            "guid": "9c5ea4b4-36d8-4ae3-91b2-a72e6f2eb347",
+            "id": "21",
+            "name": "guisilvano/dotfiles: Personal config files, scripts, etc.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/guisilvano/dotfiles"
+         }, {
+            "date_added": "13285626119210442",
+            "guid": "95e09c22-687f-4697-abc9-69554fe7f331",
+            "id": "22",
+            "name": "My i3status customization. i3status is a fantastic lightweight… | by Miguel Sampaio da Veiga | Hacker Toolbelt | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/hacker-toolbelt/my-i3status-customization-3e8ad6f0153a"
+         }, {
+            "date_added": "13285727557196920",
+            "guid": "adab1b2a-e3a9-4acb-b395-1f88fec38ee3",
+            "id": "23",
+            "name": "Writing custom py3status modules — py3status 3.36 documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://py3status.readthedocs.io/en/3.36/writing_modules.html"
+         }, {
+            "date_added": "13287711174579782",
+            "guid": "d07ee78c-88a5-46ad-88bc-ce6bc1bafb73",
+            "id": "24",
+            "name": "marsupial-king/my-arch-dots: These are my messy dots.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/marsupial-king/my-arch-dots"
+         }, {
+            "date_added": "13289300589060728",
+            "guid": "90ec1d7d-b75a-471d-b622-c6ed249dcead",
+            "id": "25",
+            "name": "S-300-PM Missile TEL 3d model 3ds Max files free download - modeling 49157 on CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/model-49157.html"
+         }, {
+            "date_added": "13289300595416646",
+            "guid": "1943b7c9-f870-4ebf-97a4-7d15c1c04bc9",
+            "id": "26",
+            "name": "PHL-03 Multiple Rocket Launcher 3d model 3ds Max files free download - modeling 49307 on CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/model-49307.html"
+         }, {
+            "date_added": "13289300601912691",
+            "guid": "dd8a425b-ffc7-4a86-ae47-e044d0a0f6f5",
+            "id": "27",
+            "name": "Patriot Air Defense Missile 3d model 3ds Max files free download - modeling 49113 on CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/model-49113.html"
+         }, {
+            "date_added": "13289300607778533",
+            "guid": "e6c1d1eb-64e4-4e6b-ac6a-e0f62f057c22",
+            "id": "28",
+            "name": "HQ-9 Surface-to-Air Missiles 3d model Cinema 4D files free download - modeling 48811 on CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/model-48811.html"
+         }, {
+            "date_added": "13289300612964850",
+            "guid": "d55f7de6-758d-48dd-b77a-137916453453",
+            "id": "29",
+            "name": "Military Missile Truck 3d model 3ds Max files free download - modeling 48162 on CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/model-48162.html"
+         }, {
+            "date_added": "13289300651006397",
+            "guid": "6b6a79c0-cce8-45ab-b3fb-d5e254b9884f",
+            "id": "30",
+            "name": "Aircraft and airplane 3d models free download - CadNav",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cadnav.com/3d-models/aircraft/"
+         }, {
+            "date_added": "13290034732799041",
+            "guid": "9d4dc710-2a56-4334-bf9b-be5d6d3f658a",
+            "id": "31",
+            "name": "AngryBots_ECS/PlayerShooting.cs at master · UnityTechnologies/AngryBots_ECS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/UnityTechnologies/AngryBots_ECS/blob/master/AngryDOTS/Assets/Scripts/PlayerShooting.cs"
+         }, {
+            "date_added": "13290294870051861",
+            "guid": "5a4e4808-2b0a-4240-8a60-30d7521cecc3",
+            "id": "32",
+            "name": "Part Time Working Student ( Software Engineering) | Siemens | LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/jobs/view/2865107679/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=CJqvj4lDxb7vr7ktxwCbTQ%3D%3D&trackingId=49W%2FPIvB8ASYdcseSwjqUQ%3D%3D&trk=flagship3_search_srp_jobs"
+         }, {
+            "date_added": "13292365251990771",
+            "guid": "c8259578-6c48-474a-bade-49ab10e39e39",
+            "id": "33",
+            "name": "Informatics - Fakultät für Informatik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.in.tum.de/en/for-prospective-students/apply-for-admission/masters-programs/informatics.html"
+         }, {
+            "date_added": "13292632984370552",
+            "guid": "8cf85f89-bae2-426d-b584-78f77d935d3a",
+            "id": "34",
+            "name": "NVIDIA Optimus - ArchWiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/NVIDIA_Optimus#LightDM"
+         }, {
+            "date_added": "13292665814309487",
+            "guid": "d065e0ef-cb3e-4420-b3dc-8cfcf0eeac0b",
+            "id": "35",
+            "name": "How To: INSTALL MACOS CATALINA ON A PC THE EASY WAY! - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mHLgE3wooW4"
+         }, {
+            "date_added": "13293321108590693",
+            "guid": "901ba56b-df16-41ad-9ef6-edcfc91cd1ab",
+            "id": "36",
+            "name": "ROKIN (Remote): Praktikum Web Development (Remote)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://join.com/companies/rokin-tech/4279683-praktikum-web-development-remote?pid=24a1b46991e3de1fbcf0&utm_source=linkedin&utm_medium=free&utm_campaign=linkedin%2Blimited%2Blisting&utm_content=praktikum%2Bweb%2Bdevelopment%2Bremote"
+         }, {
+            "date_added": "13293997206041547",
+            "guid": "6160062e-d935-4fa7-9a10-c9067052cd12",
+            "id": "37",
+            "name": "GitHub - d093w1z/polybar-now-playing: Script for polybar to display and control media(not only Spotify) using DBus.",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://github.com/d093w1z/polybar-now-playing"
+         } ],
+         "date_added": "13293996735001663",
+         "date_modified": "13293997206041547",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Sık kullanılanlar çubuğu",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13293996735001672",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13293996735001674",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCJG2nQ6AAQAAEgAgASoYYXRwN0NZOUhtN05pNzN0UGJMQTBwUT09Eq8BCCMSqgEKHDgyYW84V0ZlR1JTRHhyNktodndjNk5tOUN0WT0SJGQwNjVlMGVmLWNiM2UtNDQyMC1iM2RjLThjZmNmMGVlYWMwYhgAIAAoADDHwaX/+y845MGl//svQOTBpf/7L0ocWVFDRUJXZWN1bGI4ckw5RWtVMG1TbndsK0VBPVomIiT/////AAAABDlabVYrc01Zd1NNZ2hGblpnT0h3Y2lsNGpSQT1lOPk5MxKwAQglEqsBChw2OWlaMWplWjFEY2swMWJ3Q3V3cUpFb1ZWQ2M9EiQ2MTYwMDYyZS1kOTM1LTRmYTctOWExMC1jOTA2NzA1MmNkMTIYACACKAIwnvj/9IAwOJmEk/qAMECehJP6gDBKHFdSd0cwaEVjWEFFaUNsVTBmNmlWQ1FaNWI0az1aJyIl/////wAAAASyV3p0c0UvQ0VZNTRCSlppVG9GTW9pcmVTb0xjPWUIDEouEq8BCCISqgEKHGM5V3RmTzRqSXV5VWpNYldWYUlhOUptOVIwQT0SJDhjZjg1Zjg5LWJhZTItNDI2ZC1iNTg0LTc4Zjc3ZDkzNWQzYRgAIAAoADC8yb7q+y846sm+6vsvQOrJvur7L0ocZE4zZTFDb0VVemZYOTNyYnM1bmR3TktiNm1ZPVomIiT/////AAAABDZnQ21haGlqWUp3Mk9XSnZPSmp2Y08xckErST1lS2EKuxKvAQgkEqoBChxuWGZob3hjZWxScUs5L21vM2dkY08vN3ZDT009EiQ5MDFiYTU2Yi1kZjE2LTQxYWQtOWVmNi1lZGNmYzkxY2QxYWIYACAAKAAwmrzht/4vOLS84bf+L0C0vOG3/i9KHHlGSFhBd09YK2hDMFZvM3QvTjZ1anFtWGRMOD1aJiIk/////wAAAARkYUFpMkZlUGtaNmRaMjhQMk9QandxMEJQcnM9ZYXW/JYSqwEIIBKmAQocN0wxbWIxQW4zMGdOb3dRaVM5RkFyUm1tK0tBPRIkNWE0ZTQ4MDgtMmIwYS00MjQwLThhNjAtMzBkNzUyMWNlY2MzGAAgACgAMPTR3pTzLziB0t6U8y9AgdLelPMvShwraGFyRUt6b3d0aDZZdkNVbGZqRWJGbEdZMmc9WiIiIP////1yWnJ0eUFaMHdmODdweDh0MmFKVm5yKzEraTQ9Zf2cKrMSqwEIHhKmAQocNmlQcElzOFRwTWVLZzVUUWN6VWlXakovUG1BPRIkNmI2YTc5YzAtY2NlOC00NWFiLWIzZmItZDVlMjU0Yjk4ODRmGAAgACgAMO6u57/vLziPr+e/7y9Aj6/nv+8vShxqN3hlbEdPTHBIT2VoWU16T2MvVDA3eERCNTg9WiIiIP////U2andPNkRWS3FOaTkrS1dNS1g5eHJoR1dMVkE9ZcAPOgASqwEIHBKmAQocNVZ5dXlVNmhJSnlOV1FpZS90MysycE1EajE0PRIkZTZjMWQxZWItNjRlNC00ZTZiLWFjNmEtZTBmNjJmMDU3YzIyGAAgACgAMIvd5L/vLziq3eS/7y9Aqt3kv+8vShxWUU5YeGlBYnVyVVZ5K0N2RHd1R1J3dC9SS1E9WiIiIP///9U1enVWVUlHaDJaTlFxM1dtazNhcDNWelBpZjA9ZcAPOgASqwEIHxKmAQocZ3VmMXBwWTBmZENqTC9pUWhOZDlpcVpCd1I0PRIkOWQ0ZGM3MTAtMmE1Ni00MzM0LWJmOWItYmU1ZDZkM2Y2NThhGAAgACgAMI7/2JjyLzjZ/9iY8i9A2f/YmPIvShxkeHBRbnkzaFhPd3NVZjJPaDBrZjRSNEVJR3c9WiIiIP////pmOHF5OHA5and0K1F0Yit0ZWt4R05UZUhlWHM9ZQgMSi4SqgEIGhKlAQocanJkRmNRb2ZEcXRPZjduL2pJZVZ6KzFScllRPRIkMTk0M2I3YzktZjg3MC00ZWJmLTk3YTQtN2QxNWMxYzA0YmM5GAAgACgAMJX847/vLzi//OO/7y9Av/zjv+8vShxmaFhLSWxlbXF6YjNMemVYYmtvNUZTQmNSSWc9WiEiH////1dzVXRxU0E5ald5RVd1cDVmSGVwRUpXbTBKQT1lwA86ABKqAQgXEqUBChxickEyQzlRZ3Vka3REc1J6bTJoamxvTGRybHc9EiRhZGFiMWIyYS1lM2E5LTRhY2ItYjM5NS0xZjg4ZmVjMzhlZTMYACAAKAAwzcCO9+IvOM3c75LiL0DN3O+S4i9KHENnV3kxWmIrU3ZhZkZlNHpBbU91b0JRaFZBbz1aISIf///7amNzR2hKOU52RTVvU1hDR2QzbkZqUUc4T0V3PWUAAAAAEqgBCAgSowEKHG1zU1dOWklQUWZBZEJHR0lrcnRJdS9LMFBHdz0SJDhiNWI3NGVhLWI4ZTgtNGRjZS04MDZlLWQ2NGNkMjAxYmVlMhgAIAAoADCUgZKu4y8448+b8b8uQOPPm/G/LkocOWR2VGM4aEJJYkJFWDdtOEN3dkdzRGkzeEdvPVofIh26ZW5YcllJYmJKM09WQXNpVjFZNTVjUkE2QVdrPWUAAAAAEqoBCBYSpQEKHHJGUlRDTnJUVmZQZnA3QVdYWS94RmpTbFJqST0SJDk1ZTA5YzIyLTY4N2YtNDY5Ny1hYmM5LTY5NTU0ZmU3ZjMzMRgAIAAoADDNwI734i84qrjA4uEvQKq4wOLhL0ocWGk0QlVDY0Z4amZsbGtSb1lQc005L2k3NkFZPVohIh////dVUFg5ZE1ERDMrUDllQ0czRnFzczNXU09zU1k9ZQAAAAASqgEIExKlAQocdWRXWlVUTmd2b0pML1QwbGFmdExZcGtIcnMwPRIkMjRhMDYzNWQtMjI3MC00ZGVhLWExYmItMzQyNWY4Mjc1MGQ0GAAgACgAMOnLtITcLzjErrSE3C9AxK60hNwvShxDS0lsNS9PUVR5VTRYYnBDYkpxMEVZaTdhc289WiEiH///u2g2dzE5NC9FSm9Zak9sUjYyOW54V2NRSHh3ST1lCAxKLhKqAQgVEqUBChxRWGpmdHlCa2xSeHRYN09zSDhKVEZoaGRrbHM9EiQ5YzVlYTRiNC0zNmQ4LTRhZTMtOTFiMi1hNzJlNmYyZWIzNDcYACAAKAAw/bfgzd0vOM2e4M3dL0DNnuDN3S9KHGpieXE2d0p0dmJ6c29oc2k5NmZxZUtocGNWND1aISIf///uc1V6UVdZMFVjV1hZVEp2Yk02VlpLSVBua2JJPWUIDEouEqsBCCESpgEKHGNXSk1SL3lNQW5LTDRRWmVUMkI5a0YrTGFlcz0SJGM4MjU5NTc4LTZjNDgtNDc0YS1iYWRlLTQ5YWIxMGUzOWUzORgAIAAoADDe1/zv+i849Nf87/ovQPTX/O/6L0ocaElLaDJ1VHJ3VGFjQ1FyVnVjaVRyL3BtTzdVPVoiIiD////+dkw3eU1DVTNtVTIxZ3RmaUpLamNPeWNsMDRNPWUndoDrEqgBCA8SowEKHG1SbHNEdzdPQ0x0Y2l1MlduNSsveWhhTmtvQT0SJDBhM2U4NTE5LTE3ZGQtNDMwMS05M2RhLTAzMTk3MWU4NzAyZhgAIAAoADDZo/34/i848fi10usvQPH4tdLrL0ocRDdhalVGclEzZ1ZLcytnVlYvZllEdysxcm84PVofIh3/YmxNZXNLSzBQSk9QbXdLRUNSSHhBTUp3eTdZPWXFz5ABEqkBCBISpAEKHFpJTVBNRDRCQnNtMUZYckZ4UFNaSWZ3aVpzdz0SJDUwYTQ5MmUzLTRjN2MtNGJiMC1iZWQ2LTQxZDE4NGQ4ZDVjYRgAIAAoADDZo/34/i84jv+10usvQI7/tdLrL0ocdmNxUnAvZWxBYm45MSs5dVFOdkdXM05qQ3JFPVogIh7//3cybmR5RDFPL3E0WTQrbHZ2ZjkwamY5a050VT1l63n6AxKqAQgUEqUBChxuMzNza1NvdWMrNmVXaUZYY284Tldnb3hsMlE9EiQzMjBmMDdmYy1jNzQwLTRkYzktODgyMC0xODQwZTViMjk5NjQYACAAKAAwj7W/v90vOM6bv7/dL0DOm7+/3S9KHERnY0d3YmUrME0zYkZmcEY0dllnR3crZzFSWT1aISIf///dY3JYVlZhYnZ2S01JWnFVbGdDTnR4em5neWxBPWV20QkCEqsBCBsSpgEKHDRnT2E1OXVxME5kMkVrN0IrNTFOUWx2UkhnMD0SJGRkOGE0MjViLWZmYzctNGE4Ni1hZTQ3LWUwNDRkMGEwZjZmNRgAIAAoADD2r+S/7y84krDkv+8vQJKw5L/vL0ocK1BIUkFJOXdXNitUVUNQcEd4NWwxRnBnVDNRPVoiIiD///+rVXl2RW95bDVnSjVrOUtOdCtKWGVRL3d5SkdVPWXADzoAEqgBCAkSowEKHFFyMkhkc09zSjhhVXNuMnJXYmJvdGtEWnNNZz0SJDViMWQ0ZTc0LWY4NGUtNGFkYS1iZDIxLWY4ZWQxMmYzM2E4NxgAIAIoAjD9kvf0gDA4joS20usvQK+PivqAMEocSjNZM2UwZis3NW9xYnp2WktYbEtUTW5NNVRRPVofIh3dZlJYbkp6MUZTTDNuZEJrcmJLcjJPYndoV0wwPWU4+TkzEqkBCBASpAEKHDN6QjFXeFZXQk5uWmt4Skc1eHNXWUZUb0s5cz0SJGJlNzUxZTQyLTVlNWEtNDNkNi1iOGZiLTA0ZjQ5NjI2ZmQyYRgAIAAoADDX5t+I8y44pviBqesuQKb4ganrLkocQ3krOFRqMDc5eGhSZG1DWkNyTEpkcFk0U3B3PVogIh7/7DBGSm1vbXhWRVY1QkdJL2hSS05KNG5zVml5QT1ld3BsoxKoAQgNEqMBChw3VjJScnpOZW5lWjhZTytidTRjMUYvMFJGRVE9EiRjZWNjNTM1OS02YTY3LTRmMTEtOWNiMi0zMTI5MTE2Mzg5MWIYACAAKAAw2aP9+P4vOKGDttLrL0Chg7bS6y9KHGs0L2REMW9ya282TkhmV1lUZnBkWHJwTlhndz1aHyId/Th5SnNVK2pFeTZZOTZXYlNLSGY5ZmhtKzUycz1lD8w0FBKqAQgZEqUBChxkcmc2NWkwZkF0SnVKT2d6bEIvOGRSNEtPdkU9EiQ5MGVjMWQ3ZC1iNzVhLTQ3MWQtYjYyMi1jNmVkMjQ5ZGNlYWQYACAAKAAwv9njv+8vONbZ47/vL0DW2eO/7y9KHHlVdThYdzJhTFUxV1VFaEV0RGdVZGpWN1p5Yz1aISIf///+UzV6djExVktlWjk3TnlQdG9VUGc0RnJuYkRjPWXADzoAEqkBCBESpAEKHDJQaFRDbkVJZG1xSUdGMzlZNFVyNzZiUTBsMD0SJGUxYzhmNGJiLTY4YmMtNDlhMy04MGZjLWJhNmQ0M2Q1ZmZhNRgAIAAoADDZo/34/i84rf+10usvQK3/tdLrL0ocWGE0Yk5kT1EzQURJR1RDbTh3bDRhak5oZkE4PVogIh7//WRPNElxK1Vzb3k1eEhUZXR4S0s5aGl1TkZzND1l4S5ZEBKoAQgMEqMBChxmRzRaWlZkZnNqNEFPRlFFKzBnRzVqQ042ZzQ9EiQ1YzkzNDMyYi1lOWY3LTQwZTYtYjAwNi05ZjE2MWYyMGZmOWUYACAAKAAw2aP9+P4vOP+DttLrL0D/g7bS6y9KHFVhYTZ3MnhIeFUwZXp3aGkyelpwemRvbmx5VT1aHyId+0hRTk1xU0tuTElmenlubE5uQ3JLLy9FZy9CQT1lOAUHnxKnAQgFEqIBChx2V3dtUUQvYzZGdzBMeHZRRTYvcW9VWmJ3NjA9EiQwZDZjZjY4YS1jMzVjLTRmNGMtYjI4Ny0xMWRlN2JjZTM1NjcYACAAKAAwhpDf2/8vOL2EttLrL0C9hLbS6y9KHHBkclYxMzRCRzh0c3R6eWpmVUpTN0dQQ3A2QT1aHiIcSmZ4Q21IWGV2OEo5UTFLQVZXc1NLWVRjVHdJPWU4+TkzEqgBCAsSowEKHFdkS3BhWWdqZk12enpSQjVLb1Z5ZmM3Y3BGND0SJDA5OTg3ZWQ1LWE3NTgtNGI2MS1iNDIwLTBhNjkxNjM4ZDhiNBgAIAIoAjD9kvf0gDA4/IS20usvQLCPivqAMEocdno2QjNVZ3pLejlqazlKMXlyQkNuemdiYUxFPVofIh33MzBsaXpvVGI3aC9FTWJIbStVVWpUelZxTVV3PWUIDjw3EqgBCAoSowEKHFcwYVJjSXNEekxrdmFBSGt5bHpQTXdCTmVuOD0SJGQyZjkxYzdhLTYyYmItNDg1Yi1hZjg2LWUxYzIzN2YwOWEwOBgAIAIoAjD9kvf0gDA4kYO20usvQK+PivqAMEocbmdTYlZYNkhDQnZRc0Z4YnZOUXFlMDMzZUQwPVofIh3uaGN3L0VsaVRhb2JuSTFBU1djMFd1NHQ4bnZBPWXzau4FEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDZlOWZjNjliLWQzNWQtNTY1Zi05OWQ4LWQxNTE5NjQ4Y2I2YhgAIAAoADCTgq7Koy448PatyqMuQPD2rcqjLkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIBhKiAQocRVp1MUdZZE5CdXlwTm1FYnZpNHQxdUlBYkF3PRIkZTNkNzBhMTEtMjI2Mi00YTJlLTk3YmQtYzk4NWZiZTAxMTk2GAAgAigCMP2S9/SAMDiCg7bS6y9A7o6K+oAwShwyTVhnZnowSWdFT2hyZzV1RHRFZDB4TGtNU0E9Wh4iHFlSczVLTmw4SDVsVTdaZDFTMS8rUFMrWlUxMD1lALRv7BKqAQgYEqUBChxnS0ZBUkZUUUd3NDFwajJPOTdFZnZtOGRFa0U9EiRkMDdlZTc4Yy04OGE1LTQ2YWQtODhiYy1jZTZiYzFiYWZiNzMYACAAKAAw9KnexOkvOLSP3sTpL0C0j97E6S9KHEVjaFB2am04U1pBT053Y2l6bkhvc08xWThEMD1aISIf///9Ym9TYnVwUVBsbi9XN3JGdnBJdDFnODNXTTBNPWUIDEouEqsBCB0SpgEKHHhhL2lsVEtQRWhpVjArbGNEZFdUdHlVM0R3Zz0SJGQ1NWY3ZGU2LTc1OGQtNDhkZC1iNzdhLTEzNzkxNjQ1MzQ1MxgAIAAoADDMhuW/7y847Iblv+8vQOyG5b/vL0ocYnJ1SGprZkMzNjhlbFVTb2htNkNIK3VSSDZVPVoiIiD////qYkR5dHk5OVphaWliOFdXVUt0VmpFalF6V1FzPWXADzoAEqcBCAcSogEKHG5DSHg5U3l3bVUvRktxeFZWTEwvMGJkdy8vST0SJDc2NzI3Nzg5LTllMTUtNGIxOS1hNzk5LTBhODEwZjdlYmExZhgAIAIoAjD9kvf0gDA474O20usvQK+PivqAMEocNm5LTDloRVl4U3piVlc2WGtUK0xyeFlTY3JnPVoeIhx0YzV1YVpza1FqcUdmZUV6MllGbllTb2NWN289ZWr4B6YSqAEIDhKjAQocSGNYMFpRZzBSd3pvQS9UYnRXdStEQ05iM2U4PRIkY2M3YzdkMTItMTU2Zi00YzMyLWFiYzgtYTc5NDMwYWRhYWZjGAAgACgAMNmj/fj+LzjAg7bS6y9AwIO20usvShxvQlNJdmQyaUFJWFFwS2NobEx6Z3lBMkl6cTA9Wh8iHf5XenlPRTdtNGc2UzJidFFIbE5MNFJPd2JxNTA9ZegPjGUSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZGZiYjYwM2ItYzdiMi01ZGY4LWFhNTItNzEwNjM0ZWVhOWMwGAAgACgAMI+CrsqjLjjw9q3Koy5A8PatyqMuShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRhY2Q2ODQzZS0yMzQyLTVlOWEtODQ4OS1iN2I3MWFiOWQzYWMYACAAKAAwjoKuyqMuOPD2rcqjLkDw9q3Koy5KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

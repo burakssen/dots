@@ -1,0 +1,6 @@
+2022/04/10-03:17:57.340 41c Reusing MANIFEST /home/burakssen/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/10-03:17:57.340 41c Recovering log #3
+2022/04/10-03:17:58.048 41c Reusing old log /home/burakssen/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/04/10-03:18:16.910 3a7 Level-0 table #5: started
+2022/04/10-03:18:17.109 3a7 Level-0 table #5: 1148850 bytes OK
+2022/04/10-03:18:17.198 3a7 Delete type=0 #3
