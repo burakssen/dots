@@ -1,3 +1,24 @@
-2022/04/10-00:41:11.043 3 Reusing MANIFEST /home/burakssen/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
-2022/04/10-00:41:11.044 3 Recovering log #34
-2022/04/10-00:41:11.044 3 Reusing old log /home/burakssen/.config/microsoft-edge/Default/Local Storage/leveldb/000034.log 
+2022/04/10-03:56:18.725 3 Reusing MANIFEST /home/burakssen/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2022/04/10-03:56:18.752 3 Recovering log #34
+2022/04/10-03:56:19.040 3 Reusing old log /home/burakssen/.config/microsoft-edge/Default/Local Storage/leveldb/000034.log 
+2022/04/10-00:56:38.093 5 Level-0 table #37: started
+2022/04/10-00:56:38.167 5 Level-0 table #37: 15781 bytes OK
+2022/04/10-00:56:38.244 5 Delete type=0 #34
+2022/04/10-01:05:14.502 a Level-0 table #39: started
+2022/04/10-01:05:15.245 a Level-0 table #39: 55345 bytes OK
+2022/04/10-01:05:15.709 a Delete type=0 #36
+2022/04/10-01:05:25.271 c Level-0 table #41: started
+2022/04/10-01:05:25.347 c Level-0 table #41: 46815 bytes OK
+2022/04/10-01:05:25.436 c Delete type=0 #38
+2022/04/10-01:05:25.437 c Compacting 4@0 + 1@1 files
+2022/04/10-01:05:25.548 c Generated table #42@0: 434 keys, 205718 bytes
+2022/04/10-01:05:25.548 c Compacted 4@0 + 1@1 files => 205718 bytes
+2022/04/10-01:05:26.696 c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/10-01:05:26.697 c Delete type=2 #37
+2022/04/10-01:05:26.697 c Delete type=2 #33
+2022/04/10-01:05:26.697 c Delete type=2 #31
+2022/04/10-01:05:26.697 c Delete type=2 #39
+2022/04/10-01:05:26.697 c Delete type=2 #41
+2022/04/10-01:13:41.110 10 Level-0 table #44: started
+2022/04/10-01:13:41.770 10 Level-0 table #44: 20048 bytes OK
+2022/04/10-01:13:42.636 10 Delete type=0 #40

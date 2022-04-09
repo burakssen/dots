@@ -1,3 +1,6 @@
-2022/04/10-00:41:11.121 3 Reusing MANIFEST /home/burakssen/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
-2022/04/10-00:41:11.121 3 Recovering log #10
-2022/04/10-00:41:11.122 3 Reusing old log /home/burakssen/.config/microsoft-edge/Default/Session Storage/000010.log 
+2022/04/10-03:56:21.448 3 Reusing MANIFEST /home/burakssen/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2022/04/10-03:56:21.450 3 Recovering log #10
+2022/04/10-03:56:21.473 3 Reusing old log /home/burakssen/.config/microsoft-edge/Default/Session Storage/000010.log 
+2022/04/10-01:13:35.660 a Level-0 table #14: started
+2022/04/10-01:13:35.795 a Level-0 table #14: 17978 bytes OK
+2022/04/10-01:13:36.086 a Delete type=0 #10

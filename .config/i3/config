@@ -271,7 +271,7 @@ default_floating_border pixel 1
 #exec_always --no-startup-id /home/burakssen/.config/xborder/xborders -c /home/burakssen/.config/xborder/config.json 
 exec_always --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 
-exec --no-startup-id xrandr --output eDP-1-1 --primary --size 1920x1080 --output HDMI-0 --size 1920x1080 --right-of eDP-1-1
+exec_always --no-startup-id /home/burakssen/.config/i3/monitor.sh
 
 workspace "1" output eDP-1-1
 workspace "2" output eDP-1-1
