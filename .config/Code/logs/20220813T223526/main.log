@@ -1,0 +1,6 @@
+[2022-08-13 22:35:26.109] [main] [info] update#setState idle
+[2022-08-13 22:35:27.241] [main] [info] Starting extension host with pid 6721 (fork() took 10 ms).
+[2022-08-13 22:35:56.116] [main] [info] update#setState checking for updates
+[2022-08-13 22:35:56.189] [main] [info] update#setState idle
+[2022-08-13 22:36:12.073] [main] [info] Waiting for extension host with pid 6721 to exit.
+[2022-08-13 22:36:12.116] [main] [info] Extension host with pid 6721 exited with code: 0, signal: null.

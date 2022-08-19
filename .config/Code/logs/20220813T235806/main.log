@@ -1,0 +1,6 @@
+[2022-08-13 23:58:07.145] [main] [info] update#setState idle
+[2022-08-13 23:58:08.866] [main] [info] Starting extension host with pid 48609 (fork() took 11 ms).
+[2022-08-13 23:58:37.154] [main] [info] update#setState checking for updates
+[2022-08-13 23:58:37.226] [main] [info] update#setState idle
+[2022-08-14 00:16:53.102] [main] [info] Waiting for extension host with pid 48609 to exit.
+[2022-08-14 00:16:53.258] [main] [info] Extension host with pid 48609 exited with code: 0, signal: null.

@@ -1,0 +1,21 @@
+[2022-08-17 21:31:12.567] [exthost] [info] Extension host with pid 1175 started
+[2022-08-17 21:31:12.567] [exthost] [info] Skipping acquiring lock for /home/burakssen/.config/Code/User/workspaceStorage/b9c32b9f00a060d9a825d3cbd889efb1.
+[2022-08-17 21:31:13.134] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-08-17 21:31:13.466] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-08-17 21:31:13.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-17 21:31:13.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-17 21:31:13.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-17 21:31:13.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-17 21:31:13.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-17 21:31:13.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-17 21:31:14.249] [exthost] [info] Eager extensions activated
+[2022-08-17 21:31:14.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 21:31:14.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 21:31:14.281] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 21:31:14.336] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 21:31:14.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-17 21:31:30.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-17 21:31:30.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-17 21:31:30.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-17 21:32:01.775] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-17 21:32:01.842] [exthost] [info] Extension host with pid 1175 exiting with code 0

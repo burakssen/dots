@@ -1,0 +1,3 @@
+[2022-08-13 23:58:09.001] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-08-13 23:58:10.912] [renderer1] [error] [Extension Host] (node:48609) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
