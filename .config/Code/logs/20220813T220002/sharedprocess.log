@@ -1,8 +1,0 @@
-[2022-08-13 22:00:04.627] [sharedprocess] [info] Starting worker process with pid 2761 (type: fileWatcher, window: 1).
-[2022-08-13 22:00:43.372] [sharedprocess] [info] Getting Manifest... github.github-vscode-theme
-[2022-08-13 22:00:43.379] [sharedprocess] [info] Installing extension: github.github-vscode-theme
-[2022-08-13 22:00:45.340] [sharedprocess] [info] Downloaded extension: github.github-vscode-theme /home/burakssen/.config/Code/CachedExtensionVSIXs/github.github-vscode-theme-6.3.2
-[2022-08-13 22:00:45.404] [sharedprocess] [info] Extracted extension to /home/burakssen/.vscode/extensions/.a46643fb-7c6d-41d8-a1d2-42e15b2712e1: github.github-vscode-theme
-[2022-08-13 22:00:45.410] [sharedprocess] [info] Renamed to /home/burakssen/.vscode/extensions/github.github-vscode-theme-6.3.2
-[2022-08-13 22:00:45.412] [sharedprocess] [info] Extracting completed. github.github-vscode-theme
-[2022-08-13 22:00:45.414] [sharedprocess] [info] Extension installed successfully: github.github-vscode-theme
